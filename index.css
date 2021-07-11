@@ -2,7 +2,7 @@ sol2.css
 
 body{
   background-color: rgb(255, 153, 153);
-  font-family: 'Pangolin', cursive,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
 }
  div p{
  font-family: 'Pangolin', cursive,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -18,7 +18,7 @@ color:rgb(102, 0, 31);
   background-color:#ff99bb;
   border: px solid #cc0066;
   margin : 10px;
-  
+   font-family: 'Pangolin', cursive,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
 .menu{
@@ -45,7 +45,8 @@ color:#001a33;
 h1{
   text-align:center;
   color:#000080;
-  font-size:2rem;
+  font-size:3em;
+   font-family: 'Pangolin', cursive,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 body {
   background-color: #ccffff;
