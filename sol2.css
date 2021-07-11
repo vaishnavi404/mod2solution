@@ -1,0 +1,88 @@
+sol2.css
+
+body{
+  background-color: rgb(255, 153, 153);
+}
+ div p{
+
+  
+  text-align: center;
+  padding: 25px;
+  margin: 10px;
+color:rgb(102, 0, 31);
+  font-size: 20px;
+  }
+.item{
+ 
+  background-color:#ff99bb;
+  border: px solid #cc0066;
+  margin : 10px;
+  
+
+}
+.menu{
+color:#001a33;
+  border: 3px solid #cc0066;
+  float: right;
+    height:25px;
+  width:60px;
+    background-color: rgb(128, 255, 128);
+    text-align:center;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.row{
+  width: 100%;
+  
+}
+* {
+  box-sizing: border-box;
+}
+
+h1{
+  text-align:center;
+  color:#000080;
+}
+body {
+  background-color: #ccffff;
+  
+ 
+}
+
+
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+ .col-lg-4 {
+    float: left;
+  }
+  
+  .col-lg-4 {
+    width: 33.33%;
+  }
+}
+  
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+ .col-md-6{
+    float: left;
+    border: 1px solid green;
+  }
+  
+  .col-md-6 {
+    width: 50%;
+  }
+ 
+}
+@media (max-width: 991px) {
+.col-sm-12 {
+    float: left;
+    border: 1px solid green;
+  }
+  
+  .col-sm-12 {
+    width: 100%;
+  }
+}
