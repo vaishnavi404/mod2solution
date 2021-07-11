@@ -2,28 +2,28 @@ index.css
 
 body{
   background-color: rgb(255, 153, 153);
-
+  font-family: 'Pangolin', cursive,Impact, Haettenschweiler, 'Arial Narrow Bold',  sans-serif;
 }
  div p{
- font-family: 'Pangolin', cursive,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  
-  text-align: center;
+
+	font-family: 'Pangolin', cursive,Impact, Haettenschweiler, 'Arial Narrow Bold',  sans-serif;
+	text-align: center;
   padding: 25px;
   margin: 10px;
 color:rgb(102, 0, 31);
   font-size: 20px;
-  }
+	}
 .item{
-  font-family: 'Pangolin', cursive,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  background-color:#ff99bb;
-  border: px solid #cc0066;
-  margin : 10px;
-
+ 
+	background-color:#ff99bb;
+	border: px solid #cc0066;
+	margin : 10px;
+	 font-family: 'Pangolin', cursive,Impact, Haettenschweiler, 'Arial Narrow Bold',  sans-serif;
 
 }
 .menu{
 color:#001a33;
-  border: 3px solid #cc0066;
+	border: 3px solid #cc0066;
   float: right;
     height:25px;
   width:60px;
@@ -31,11 +31,12 @@ color:#001a33;
     text-align:center;
     margin: 0px;
     padding: 0px;
+
     
 }
 
 .row{
-  width: 100%;
+	width: 100%;
   
 }
 * {
@@ -43,18 +44,25 @@ color:#001a33;
 }
 
 h1{
-  font-family: 'Pangolin', cursive,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-align:center;
   color:#000080;
   font-size:3em;
- 
+    font-family: 'Pangolin', cursive,Impact, Haettenschweiler, 'Arial Narrow Bold',  sans-serif;
 }
 body {
   background-color: #ccffff;
   
  
 }
-
+#x{
+    background-color: #ff4d4d;
+}
+#y{
+   background-color: 	  #9966ff;
+}
+#z{
+   background-color: #00ff00;
+}
 
 /********** Large devices only **********/
 @media (min-width: 1200px) {
