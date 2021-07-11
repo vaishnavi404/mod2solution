@@ -18,7 +18,7 @@ color:rgb(102, 0, 31);
   background-color:#ff99bb;
   border: px solid #cc0066;
   margin : 10px;
-   font-family: 'Pangolin', cursive,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: 'Pangolin', cursive,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
 .menu{
@@ -46,12 +46,12 @@ h1{
   text-align:center;
   color:#000080;
   font-size:3em;
-   font-family: 'Pangolin', cursive,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: 'Pangolin', cursive,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 body {
   background-color: #ccffff;
   
- 
+  font-family: 'Pangolin', cursive,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 
